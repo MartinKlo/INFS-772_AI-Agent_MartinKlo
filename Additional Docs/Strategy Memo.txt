@@ -1,0 +1,9 @@
+Title: Strategy Memo
+Importance: Critical
+Timeline: ASAP
+
+We need to add the following features to the project:
+
+1) Leave thinking mode in a drop-down.
+2) Use larger, newer models for better performance.
+3) Improve the document ingestion to better handle academic journals.
